@@ -10,3 +10,5 @@
 + #### 🚀 Goal: To become a successful developer.
 
 ![FAST NUCES LOGO.](https://khi.nu.edu.pk/wp-content/uploads/2023/01/FAST-NU-logo.png)
+
+"Updated README file with new information"
