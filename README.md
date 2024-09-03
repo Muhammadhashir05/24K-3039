@@ -3,7 +3,7 @@
 
 
 ## 👋 About Me:
-      Name: M.HashirUddin    
+ ### Name: *M.HashirUddin*    
 + #### 📚 Background: Intermediate.     
 + #### 🎓 Pursuing: BS Software Engineering from FAST NUCES.
 + #### 💻 Passion: Coding and developing innovative solutions.
